@@ -30,5 +30,3 @@ if code and date :
         - Adj Close : 수정 종가
         - Volumn : 거래량
        ''')
-
-https://streamlit.io/cloud
